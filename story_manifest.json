@@ -1,10 +1,10 @@
 {
-    "version": 2,
+    "version": 3,
     "levels": [
         {
             "id": "10712c2e-286f-41de-ab60-80cba1ca7540",
             "name": "Level 1",
-            "revision": 2
+            "revision": 3
         },
         {
             "id": "85364067-c13e-406b-a2eb-110e04b43a62",
@@ -20,6 +20,11 @@
             "id": "f062eed3-3c2a-4ccd-80b8-7fdb73f6fd3e",
             "name": "Islands",
             "revision": 2
+        },
+        {
+            "id": "466ec73f-3bf1-46fd-b42d-f69f2a41cae3",
+            "name": "Candidate Level 1",
+            "revision": 1
         }
     ]
 }
