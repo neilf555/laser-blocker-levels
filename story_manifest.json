@@ -1,25 +1,25 @@
 {
-  "version": 1,
-  "levels": [
-    {
-      "id": "10712c2e-286f-41de-ab60-80cba1ca7540",
-      "name": "Level 1",
-      "revision": 1
-    },
-    {
-      "id": "85364067-c13e-406b-a2eb-110e04b43a62",
-      "name": "Candidate Level 6",
-      "revision": 1
-    },
-    {
-      "id": "532f2fe6-8d38-4124-8011-fd238b9237d6",
-      "name": "Quick Ice",
-      "revision": 1
-    },
-    {
-      "id": "f062eed3-3c2a-4ccd-80b8-7fdb73f6fd3e",
-      "name": "Islands",
-      "revision": 1
-    }
-  ]
+    "version": 2,
+    "levels": [
+        {
+            "id": "10712c2e-286f-41de-ab60-80cba1ca7540",
+            "name": "Level 1",
+            "revision": 2
+        },
+        {
+            "id": "85364067-c13e-406b-a2eb-110e04b43a62",
+            "name": "Candidate Level 6",
+            "revision": 2
+        },
+        {
+            "id": "532f2fe6-8d38-4124-8011-fd238b9237d6",
+            "name": "Quick Ice",
+            "revision": 2
+        },
+        {
+            "id": "f062eed3-3c2a-4ccd-80b8-7fdb73f6fd3e",
+            "name": "Islands",
+            "revision": 2
+        }
+    ]
 }
