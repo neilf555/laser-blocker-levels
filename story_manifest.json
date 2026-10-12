@@ -1,10 +1,15 @@
 {
-    "version": 9,
+    "version": 10,
     "levels": [
+        {
+            "id": "ea82e4a6-cb09-46c0-acad-108df5c73938",
+            "name": "6 Capelaw Road",
+            "revision": 2
+        },
         {
             "id": "85364067-c13e-406b-a2eb-110e04b43a62",
             "name": "Mirror Garden",
-            "revision": 4
+            "revision": 5
         },
         {
             "id": "532f2fe6-8d38-4124-8011-fd238b9237d6",
@@ -30,11 +35,6 @@
             "id": "9501e48d-ea77-40a9-8957-55acd3047b75",
             "name": "Road",
             "revision": 2
-        },
-        {
-            "id": "ea82e4a6-cb09-46c0-acad-108df5c73938",
-            "name": "6 Capelaw Road",
-            "revision": 1
         }
     ]
 }
