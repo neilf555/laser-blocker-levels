@@ -1,15 +1,10 @@
 {
-    "version": 8,
+    "version": 9,
     "levels": [
-        {
-            "id": "10712c2e-286f-41de-ab60-80cba1ca7540",
-            "name": "Level 1",
-            "revision": 6
-        },
         {
             "id": "85364067-c13e-406b-a2eb-110e04b43a62",
             "name": "Mirror Garden",
-            "revision": 3
+            "revision": 4
         },
         {
             "id": "532f2fe6-8d38-4124-8011-fd238b9237d6",
@@ -19,12 +14,12 @@
         {
             "id": "f062eed3-3c2a-4ccd-80b8-7fdb73f6fd3e",
             "name": "Islands",
-            "revision": 2
+            "revision": 3
         },
         {
             "id": "466ec73f-3bf1-46fd-b42d-f69f2a41cae3",
             "name": "Candidate Level 1",
-            "revision": 3
+            "revision": 4
         },
         {
             "id": "df71338c-0f0f-4433-b74e-89a04d03b7b8",
@@ -34,6 +29,11 @@
         {
             "id": "9501e48d-ea77-40a9-8957-55acd3047b75",
             "name": "Road",
+            "revision": 2
+        },
+        {
+            "id": "ea82e4a6-cb09-46c0-acad-108df5c73938",
+            "name": "6 Capelaw Road",
             "revision": 1
         }
     ]
