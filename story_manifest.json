@@ -1,10 +1,70 @@
 {
-    "version": 10,
+    "version": 11,
     "levels": [
+        {
+            "id": "9d1a16af-6805-5fce-92b5-1b737c8a33e9",
+            "name": "No. 6 Capepaw Road - House",
+            "revision": 1
+        },
+        {
+            "id": "588a9ce6-857d-520d-9042-c231d6e250f3",
+            "name": "No. 6 Capepaw Road - Garden",
+            "revision": 1
+        },
+        {
+            "id": "19ed5a25-956b-57b7-b79a-e9fb21bb5c5c",
+            "name": "No. 4 Capepaw Road - The Pond",
+            "revision": 1
+        },
+        {
+            "id": "4676a78d-c3d9-59cd-8c72-c56b3377fc26",
+            "name": "No. 2 Capepaw Road - The Playground",
+            "revision": 1
+        },
+        {
+            "id": "be551ef9-6a92-5e8c-b8d7-67b0e2fdef16",
+            "name": "No. 5 Capepaw Road - The Woodland",
+            "revision": 1
+        },
+        {
+            "id": "86ae4d48-e10c-58aa-b421-a8ea7a4f1e73",
+            "name": "No. 7 Capepaw Road - The Grooming Parlour",
+            "revision": 1
+        },
+        {
+            "id": "b3c34b49-2767-5762-9dd8-72ab6b143306",
+            "name": "No. 3 Capepaw Road - The Kennel",
+            "revision": 1
+        },
+        {
+            "id": "84265693-b438-5d9d-a2c0-5d4b71e8eb0a",
+            "name": "Capepaw Road",
+            "revision": 1
+        },
+        {
+            "id": "e0585d69-7d04-55c0-8229-93139efcfce7",
+            "name": "No. 8 Capepaw Road - The Show Garden",
+            "revision": 1
+        },
+        {
+            "id": "d8159364-1f53-5fd4-b232-bfd80b44f1ac",
+            "name": "No. 9 Capepaw Road - The Security Garden",
+            "revision": 1
+        },
+        {
+            "id": "18d6bffb-d702-5b44-b6da-9be5e57e47d4",
+            "name": "No. 1 Capepaw Road - The Hedge Maze",
+            "revision": 1
+        },
+        {
+            "id": "8b56f99a-9807-5b42-a792-d181dc70f694",
+            "name": "No. 10 Capepaw Road - The Hoard",
+            "revision": 1
+        },
         {
             "id": "ea82e4a6-cb09-46c0-acad-108df5c73938",
             "name": "6 Capelaw Road",
-            "revision": 2
+            "revision": 3
         },
         {
             "id": "85364067-c13e-406b-a2eb-110e04b43a62",
